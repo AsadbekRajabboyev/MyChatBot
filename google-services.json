@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038029999778",
+    "project_id": "mychat-by-asadbek",
+    "storage_bucket": "mychat-by-asadbek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038029999778:android:901df75b4e42b641b4d1fb",
+        "android_client_info": {
+          "package_name": "com.example.mychatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0DDxN2d9eg2j7CFieLNMqFD7rJLSswII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

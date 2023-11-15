@@ -1,0 +1,30 @@
+    <resources xmlns:tools="http://schemas.android.com/tools">
+        <!-- Base application theme. -->
+        <style name="Base.Theme.MyChatBot" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+            <!-- Customize your light theme here. -->
+            <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+            <item name="colorPrimary">@color/purple_500</item>
+            <item name="colorPrimaryVariant">@color/background</item>
+            <item name="colorOnPrimary">@color/white</item>
+            <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        </style>
+
+        <style name="Theme.MyChatBot" parent="Base.Theme.MyChatBot" />
+
+        <!--splash screen-->
+        <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+            <item name="colorPrimary">@color/background</item>
+            <item name="android:windowBackground">@drawable/background_splashscreen</item>
+            <item name="android:statusBarColor">?attr/colorOnPrimary</item>
+        </style>
+
+        <!---Custom Theme-->
+        <style name="Theme.ChatGPTTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+            <!-- Primary brand color. -->
+            <item name="colorPrimary">@color/white</item>
+            <item name="colorPrimaryVariant">@color/background</item>
+            <item name="colorOnPrimary">@color/white</item>
+            <!-- Status bar color. -->
+            <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        </style>
+    </resources>

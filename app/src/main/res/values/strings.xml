@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyChatBot</string>
+    <string name="welcome_to_chatgpt">Salom ChatGPTga xush kelibsiz</string>
+    <string name="write_here">Bir nima yozing....</string>
+    <string name="todo">TODO</string>
+    <string name="desc">ChatGPT UZ-ga qanday savolingiz bo\'lsa berishingiz mumkin u albatta sizning savolingizga yechim topadi</string>
+    <string name="main_desc">Salom ChatGPT-UZ ga xush kelibsiz</string>
+    <string name="register">Registratsiya</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="signin">ChatGPT bilan tizimga kiring</string>
+    <string name="password">Parol</string>
+    <string name="forgot_password">Parolni unutdingizmi</string>
+    <string name="sign_in">Kirish</string>
+    <string name="sign_up">Registratsiya</string>
+    <string name="don_t_have_an_account">Akkauntingiz yo\'qmi</string>
+    <string name="mobile_number">Telefon raqam</string>
+    <string name="confirm_password">Parolni tasdiqlang</string>
+    <string name="_91">+ 998</string>
+    <string name="full_name">To\'liq ismingiz</string>
+    <string name="signup_with_chatgpt">ChatGPT bilan ro\'yxatdan o\'ting</string>
+    <string name="already_have_an_account">Akkauntingiz bormi ?</string>
+    <string name="forgot_password_desc">Parolingizni qayta tiklamoqchi bo\'lgan hisob qaydnomangizning elektron pochta manzilini ko\'rsating!</string>
+    <string name="reset_password">Parolni qaytarish</string>
+    <string name="back">Orqaga</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyChatBot" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryVariant">@color/background</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background</item>
+        <item name="android:windowBackground">@drawable/background_splashscreen</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>
